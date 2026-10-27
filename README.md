@@ -1,16 +1,42 @@
-## Hi there 👋
+# Olá, eu sou o Alexsandro!
 
-<!--
-**CyberAle-C/CyberAle-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Técnico em Mecatrônica | Estudante de Análise e Desenvolvimento de Sistemas**
 
-Here are some ideas to get you started:
+Sou estudante e entusiasta da tecnologia, com interesse em **automação, sistemas embarcados e programação**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Gosto de compreender como os sistemas funcionam, explorar diferentes tecnologias e desenvolver soluções que facilitem tarefas, otimizem processos e resolvam problemas práticos.
+
+Atualmente, concentro meus estudos e projetos na integração entre **hardware e software**, utilizando microcontroladores e linguagens de programação.
+
+---
+
+## Tecnologias e ferramentas 
+
+### Lingagens
+- C++ aplicado a sistemas embarcados
+- Python
+- MicroPython
+
+### Plataformas
+- Arduino
+- Família ESP
+
+### Ferramentas 
+- Git e GitHub
+- Visual Studio Code
+- Arduino IDE
+
+---
+
+## Áreas de interesse
+
+- Automação e sistemas embarcados
+- Internet das Coisas (IoT)
+- Manutenção e monitoramento de sistemas
+- Inteligência Artificial e Machine Learning
+
+---
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/alexsandro-de-oliveira-fernandes-60b8b9266/)
