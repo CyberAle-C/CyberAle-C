@@ -12,7 +12,7 @@ Atualmente, concentro meus estudos e projetos na integração entre **hardware e
 
 ## Tecnologias e ferramentas 
 
-### Lingagens
+### Linguagens
 - C++ aplicado a sistemas embarcados
 - Python
 - MicroPython
